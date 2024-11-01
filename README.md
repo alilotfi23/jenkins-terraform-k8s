@@ -14,7 +14,7 @@ Install provider
 ```shell
 terraform init
 ```
-The terraform plan command creates an execution plan, which lets you preview the changes that Terraform plans to make to your infrastructure
+The Terraform plan command creates an execution plan, which lets you preview the changes that Terraform plans to make to your infrastructure
 
 ```shell
 terraform plan
@@ -24,4 +24,4 @@ The terraform apply command is used to apply the changes required to reach the d
 terraform apply
 ```
 ## jenkinsfile
-The jenkins pipline run terraform (init, fmt, validate) before apply command
+The Jenkins pipeline run terraform (init, fmt, validate) before applying the command
