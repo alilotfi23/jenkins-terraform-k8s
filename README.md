@@ -1,7 +1,8 @@
 # jenkins-terraform-k8s
 Deployment on Kubernetes Cluster using Jenkins CI/CD and Terraform 
 ## BluePrint
-![jenkis-1](https://github.com/alilotfi23/jenkins-terraform-k8s/assets/91953142/72a82570-2b6e-4c96-8caa-008016475d42)
+![Untitled Diagram drawio](https://github.com/user-attachments/assets/61f396da-c7be-4c48-a661-b521a9af8b7c)
+
 ## Terraform provider file
 A provider in Terraform is a plugin that enables interaction with an API. This includes Cloud providers and Software-as-a-service providers. The providers are specified in the Terraform configuration code. They tell Terraform which services it 
 ## terraform versions file
